@@ -26,7 +26,6 @@ Before running the project, make sure you have the following installed:
 
 ### Installation
 1. Clone this repository:
-   ```bash
    git clone https://github.com/yourusername/HiddenCameraDetector.git
 2.cd HiddenCameraDetector
 3.flutter pub get
